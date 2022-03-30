@@ -69,9 +69,19 @@ Als de temp lager is dan 27 gaat de buzzer uit en natuurlijk nog de display.disp
 
 
 
+Dit heb ik allemaal aangemaakt op Blynk, alles is een virtuelepin
+
+![image](https://user-images.githubusercontent.com/99627401/160851897-95c4e80b-beba-4274-ab65-5d117f4930e1.png)
 
 
+Hoe mijn Blynk app eruit ziet
+
+![Screenshot_20220330-155735_Blynk_IoT](https://user-images.githubusercontent.com/99627401/160852275-e37b1500-1dee-4ae2-8164-bc4328c5098c.jpg)
 
 
+En hier heb ik nog een video die alles in details uitlegt
 
+![20220330_160514](https://user-images.githubusercontent.com/99627401/160853862-5142fece-bfc2-4be5-8aa9-f96910a10e32.jpg)
+
+https://youtu.be/yFjgEUe2_0w
 
