@@ -15,8 +15,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "NoWifi";
-char pass[] = "MALLALI1975";
+char ssid[] = "YourwifiSsid";
+char pass[] = "Yourpassword";
 
 #define DHTPIN 26         
 #define DHTTYPE DHT11 
